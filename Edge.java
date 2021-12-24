@@ -1,4 +1,3 @@
-package dungeon;
 class Edge<T> {
   final private T source;
   final private T destination;
