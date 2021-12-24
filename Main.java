@@ -1,10 +1,6 @@
-package dungeon;
-
 import java.util.Random;
+import Graph;
 
-import dungeon.Graph;
-
-// ref: https://algorithms.tutorialhorizon.com/kruskals-algorithm-minimum-spanning-tree-mst-complete-java-implementation/
 public class Main {
   public static void main(String[] args) {
     Graph<String> graph = new Graph<>();
