@@ -1,6 +1,6 @@
-# Graphs
+# Generic Graphs
 
-Generic implementation of Graphs data structure in Java.
+Generic implementation of unweighted graphs data structure in Java.
 
 # Usage
 - Import graph file as below
