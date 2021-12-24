@@ -5,7 +5,7 @@ import java.util.Random;
 import dungeon.Graph;
 
 // ref: https://algorithms.tutorialhorizon.com/kruskals-algorithm-minimum-spanning-tree-mst-complete-java-implementation/
-public class GraphDriver {
+public class Main {
   public static void main(String[] args) {
     Graph<String> graph = new Graph<>();
     graph.addEdge("A", "B");
