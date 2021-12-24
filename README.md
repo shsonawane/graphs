@@ -1,2 +1,3 @@
-# graphs
-Generic Graphs in Java
+# Graphs
+
+Generic implementation of Graphs data structure in Java.
